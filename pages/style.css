@@ -1,0 +1,11 @@
+a.text-current.p-2:nth-child(4) {
+  display: none;
+}
+
+img {
+  margin-top: 50px;
+}
+
+h1{
+  margin-bottom: 50px;
+}

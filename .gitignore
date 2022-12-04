@@ -1,0 +1,8 @@
+node_modules
+.next
+.DS_Store
+yarn-error.log
+dist
+Thumbs.db
+yarn.lock
+package-lock.json
